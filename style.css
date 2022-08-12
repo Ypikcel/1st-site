@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:rgb(180, 236, 255);
+    padding: 10px;
+    border-radius: 5px   
+}
+header a {
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+}
+main h1  {
+    color:rgb(194, 104, 236);
+    text-align: center;  
+
+}
+
+footer {
+    background-color: #ffbef1;
+    padding: 10px;
+}
+
+footer p {
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+nav {
+    background-color: rgb(61, 110, 61);
+    padding: 5px;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    padding: 60px;
+    text-decoration: none;
+
+}
+
+.asd{
+    background-color: #b44f45;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px;
+} 
+
+h2 {
+    color: rgb(10, 10, 255);
+    font-size: 40px;
+    margin: 20px;
+}
+
+p {  
+    font-size: 20px;
+    margin: 20px;
+}
+
+main img {
+    margin: 20px;
+
+}
+
+.new_year {
+    border: solid 2px rgb(170, 215, 230);
+    border-radius: 15px;
+
+}
+
+.qwerty {
+    text-decoration: none;
+    border: solid 3px rgb(2, 2, 145);
+    padding: 5px;
+    margin: 20px
+}
